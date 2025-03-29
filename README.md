@@ -16,6 +16,7 @@ The dataset used in this analysis consists of the following:
 * Performance Metrics: On-time delivery rate, average delay per factory, shipping route efficiency
 
 * Geospatial Data: Shipping routes mapped to global locations
+  
 
 ## Executive Summary
 
@@ -58,6 +59,7 @@ The logistics performance dashboard presents a comprehensive view of key operati
 * The 3.9% delay rate may be due to traffic congestion, customs processing, or weather disruptions.
 
 * Advanced machine learning models could predict delays and propose alternative routes in real-time.
+
 
 ## Recommendations
 
