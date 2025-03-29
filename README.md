@@ -21,7 +21,7 @@ The dataset used in this analysis consists of the following:
 
 The logistics performance dashboard presents a comprehensive view of key operational metrics. The geospatial shipping route map visualizes global trade routes, helping to identify potential bottlenecks and inefficiencies. The on-time delivery chart shows a stable but slightly fluctuating performance over the months. Factory delay analysis highlights varying delay levels across different factories. The route optimization pie chart indicates that 96.1% of shipments are on time, with only 3.9% delayed. These insights drive the optimization of logistics strategies to enhance overall performance.
 
-![Dashboard Preview](https://github.com/Gifty44/Supply-Project/raw/main/Supply_dashboard.png)
+[![Dashboard Preview](https://github.com/Gifty44/Supply-Project/raw/main/Supply_dashboard.png)](https://github.com/Gifty44/Supply-Project/issues/1#issue-2957854161)
 
 
 
