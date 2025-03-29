@@ -7,15 +7,15 @@ Efficient logistics performance is a critical factor in supply chain management,
 
 ## Data Structure
 
-* The dataset used in this analysis consists of the following:
+The dataset used in this analysis consists of the following:
 
-Order Details: Shipment ID, Order Date, Delivery Date, Factory of Origin
+* Order Details: Shipment ID, Order Date, Delivery Date, Factory of Origin
 
-Route Information: Source, Destination, Distance, and Route Optimization Score
+* Route Information: Source, Destination, Distance, and Route Optimization Score
 
-Performance Metrics: On-time delivery rate, average delay per factory, shipping route efficiency
+* Performance Metrics: On-time delivery rate, average delay per factory, shipping route efficiency
 
-Geospatial Data: Shipping routes mapped to global locations
+* Geospatial Data: Shipping routes mapped to global locations
 
 Executive Summary
 
