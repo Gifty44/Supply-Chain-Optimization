@@ -60,6 +60,16 @@ The logistics performance dashboard presents a comprehensive view of key operati
 
 * Advanced machine learning models could predict delays and propose alternative routes in real-time.
 
+## Skills & Technologies Used
+
+* SQL: Extracted and processed large datasets from relational databases to track logistics KPIs.
+
+* Power BI & Tableau: Created interactive dashboards visualizing shipping routes, delivery performance, and factory delays.
+
+* Python (Pandas, Scikit-learn): Utilized for data cleaning, exploratory analysis, and predictive modeling for logistics efficiency.
+
+* Machine Learning & Forecasting: Built predictive models to estimate delivery delays and optimize shipment routes.
+
 
 ## Recommendations
 
