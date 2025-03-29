@@ -7,7 +7,7 @@ Efficient logistics performance is a critical factor in supply chain management,
 
 ## Data Structure
 
-. The dataset used in this analysis consists of the following:
+* The dataset used in this analysis consists of the following:
 
 Order Details: Shipment ID, Order Date, Delivery Date, Factory of Origin
 
