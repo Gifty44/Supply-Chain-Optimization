@@ -1,0 +1,1001 @@
+date,origin,destination,distance_km,weight_kg,shipping_cost,carrier
+2023-01-05,Toronto,Montreal,541,1250,875.5,CarrierA
+2023-01-07,Vancouver,Calgary,676,980,1250.75,CarrierB
+2023-01-10,Montreal,Halifax,1200,1500,1875.25,CarrierA
+2023-01-15,Toronto,Ottawa,400,800,650.0,CarrierC
+2023-01-20,Calgary,Edmonton,300,1100,525.5,CarrierB
+2023-02-01,Montreal,Toronto,541,1300,880.25,CarrierA
+2023-02-05,Halifax,Montreal,1200,900,1650.75,CarrierC
+2023-02-10,Ottawa,Toronto,400,750,640.5,CarrierA
+2023-02-15,Edmonton,Calgary,300,1050,515.25,CarrierB
+2023-02-20,Vancouver,Edmonton,1160,1400,1825.5,CarrierC
+2023-02-24,Calgary,Toronto,1534,2981,2028.34,CarrierB
+2023-12-24,Toronto,Edmonton,1723,2889,2131.64,CarrierE
+2023-10-31,Halifax,Ottawa,1963,2395,2220.08,CarrierE
+2023-04-30,Edmonton,Regina,1560,1313,1500.71,CarrierE
+2023-06-05,Montreal,Toronto,1923,2136,2072.69,CarrierB
+2023-10-25,Toronto,Winnipeg,2278,1365,2056.69,CarrierC
+2023-11-08,Quebec City,Calgary,429,1301,747.97,CarrierD
+2023-06-26,Quebec City,Winnipeg,2958,2470,2923.73,CarrierD
+2023-12-28,Montreal,Toronto,2366,1286,2223.25,CarrierC
+2023-11-19,Ottawa,Vancouver,1850,2481,2218.74,CarrierB
+2023-10-11,Halifax,Edmonton,2176,1596,2091.39,CarrierC
+2023-03-31,Ottawa,Montreal,2184,1563,2150.29,CarrierE
+2023-09-12,Montreal,Quebec City,1515,1693,1565.19,CarrierA
+2023-05-25,Winnipeg,Quebec City,1972,1621,1877.3,CarrierA
+2023-10-12,Ottawa,Vancouver,1300,1171,1376.24,CarrierC
+2023-09-04,Montreal,Ottawa,572,1607,972.34,CarrierB
+2023-10-13,Montreal,Regina,2131,894,1886.57,CarrierE
+2023-06-25,Montreal,Regina,2845,1234,2517.06,CarrierE
+2023-02-26,Calgary,Toronto,931,978,896.85,CarrierA
+2023-05-20,Regina,Calgary,2319,2704,2618.87,CarrierB
+2023-12-22,Halifax,Toronto,404,2055,862.69,CarrierB
+2023-08-02,Montreal,Ottawa,1775,905,1544.27,CarrierE
+2023-10-14,Winnipeg,Halifax,2155,612,1809.42,CarrierC
+2023-08-06,Edmonton,Calgary,1830,943,1734.47,CarrierA
+2023-06-15,Winnipeg,Regina,2159,2902,2395.95,CarrierC
+2023-01-31,Ottawa,Calgary,1071,545,890.14,CarrierE
+2023-02-03,Quebec City,Toronto,2489,1814,2492.78,CarrierE
+2023-09-02,Toronto,Montreal,1702,2288,2021.04,CarrierB
+2023-03-13,Toronto,Ottawa,2858,2727,2928.47,CarrierD
+2023-02-07,Toronto,Winnipeg,2129,1674,2032.62,CarrierB
+2023-03-16,Edmonton,Toronto,1745,2261,2037.85,CarrierC
+2023-03-29,Regina,Vancouver,2016,656,1650.04,CarrierC
+2023-11-22,Winnipeg,Ottawa,1428,1384,1563.83,CarrierE
+2023-03-05,Vancouver,Calgary,2501,1491,2318.53,CarrierA
+2023-01-16,Regina,Vancouver,1713,2847,2114.61,CarrierA
+2023-12-03,Winnipeg,Regina,570,941,699.9,CarrierB
+2023-04-27,Vancouver,Edmonton,1411,501,1274.82,CarrierA
+2023-12-21,Vancouver,Winnipeg,1035,949,975.45,CarrierE
+2023-01-15,Calgary,Montreal,1750,859,1497.12,CarrierC
+2023-09-17,Halifax,Edmonton,626,2621,1237.72,CarrierC
+2023-11-30,Montreal,Vancouver,502,2322,1026.91,CarrierD
+2023-05-01,Vancouver,Toronto,684,1500,969.92,CarrierE
+2023-02-04,Montreal,Regina,2056,1283,1942.57,CarrierA
+2023-10-09,Quebec City,Toronto,866,1717,1127.56,CarrierC
+2023-12-09,Quebec City,Ottawa,2975,2953,3054.54,CarrierC
+2023-10-25,Regina,Quebec City,2373,1040,2080.1,CarrierE
+2023-08-20,Vancouver,Edmonton,1473,1398,1435.31,CarrierE
+2023-03-07,Montreal,Quebec City,626,2498,1140.94,CarrierC
+2023-01-12,Halifax,Ottawa,1504,1349,1500.71,CarrierD
+2023-02-14,Vancouver,Regina,1917,829,1646.76,CarrierE
+2023-01-15,Quebec City,Regina,208,1287,529.49,CarrierD
+2023-12-14,Vancouver,Quebec City,647,1863,1107.81,CarrierE
+2024-01-01,Halifax,Quebec City,2543,1199,2319.99,CarrierD
+2023-08-22,Toronto,Regina,2847,2268,2900.95,CarrierE
+2023-07-01,Ottawa,Halifax,2994,766,2436.13,CarrierB
+2023-02-18,Quebec City,Calgary,488,2442,1027.27,CarrierE
+2023-10-07,Montreal,Winnipeg,919,699,916.71,CarrierB
+2023-11-25,Regina,Montreal,907,2192,1374.58,CarrierA
+2023-09-27,Toronto,Halifax,893,1263,1042.61,CarrierC
+2023-07-23,Quebec City,Ottawa,625,846,728.38,CarrierA
+2023-01-19,Quebec City,Regina,2550,1678,2485.16,CarrierD
+2023-03-21,Regina,Edmonton,1062,1643,1229.64,CarrierB
+2023-02-19,Toronto,Calgary,2137,1624,2081.14,CarrierA
+2023-12-27,Montreal,Vancouver,2953,2134,2954.6,CarrierD
+2023-04-04,Quebec City,Vancouver,2161,1423,1975.3,CarrierE
+2023-12-08,Montreal,Toronto,1242,2788,1854.25,CarrierE
+2023-10-18,Ottawa,Regina,1178,2658,1758.2,CarrierE
+2023-11-19,Edmonton,Quebec City,922,596,868.39,CarrierE
+2023-09-19,Vancouver,Calgary,984,1194,1095.88,CarrierA
+2023-05-30,Ottawa,Quebec City,1362,1542,1496.13,CarrierE
+2023-04-23,Ottawa,Quebec City,415,1195,664.64,CarrierE
+2023-06-22,Halifax,Quebec City,1757,2091,1932.88,CarrierE
+2023-11-29,Ottawa,Quebec City,2862,2949,2979.09,CarrierD
+2023-05-29,Edmonton,Winnipeg,1554,1685,1747.35,CarrierC
+2023-05-10,Calgary,Winnipeg,2027,738,1834.92,CarrierC
+2023-10-05,Edmonton,Vancouver,708,1481,964.23,CarrierE
+2023-06-23,Montreal,Regina,2815,1399,2501.84,CarrierB
+2023-01-03,Toronto,Edmonton,899,2489,1326.82,CarrierE
+2023-07-15,Quebec City,Regina,2476,2533,2553.51,CarrierE
+2023-07-05,Edmonton,Toronto,2461,522,2025.8,CarrierC
+2023-01-04,Edmonton,Ottawa,2291,2051,2336.58,CarrierA
+2023-06-16,Calgary,Halifax,1433,838,1288.35,CarrierD
+2023-10-01,Regina,Calgary,2481,541,2090.39,CarrierB
+2023-01-18,Ottawa,Toronto,1536,2370,1877.77,CarrierA
+2023-12-18,Edmonton,Vancouver,1438,878,1304.12,CarrierC
+2023-07-10,Edmonton,Vancouver,1664,620,1406.83,CarrierA
+2023-12-30,Toronto,Montreal,2903,2906,3090.63,CarrierC
+2023-11-13,Toronto,Quebec City,801,1850,1148.98,CarrierB
+2023-07-22,Toronto,Halifax,285,1758,835.06,CarrierA
+2023-06-14,Quebec City,Regina,1187,2890,1775.89,CarrierB
+2023-02-08,Regina,Calgary,2067,2673,2333.52,CarrierB
+2023-01-29,Calgary,Vancouver,1521,1559,1624.55,CarrierD
+2023-05-17,Vancouver,Calgary,359,2900,1120.86,CarrierD
+2023-05-27,Vancouver,Calgary,2461,2090,2495.22,CarrierE
+2023-11-17,Edmonton,Quebec City,2704,826,2346.71,CarrierA
+2023-07-04,Regina,Winnipeg,637,2661,1340.63,CarrierD
+2023-05-02,Ottawa,Halifax,1510,1314,1518.67,CarrierB
+2023-12-24,Ottawa,Calgary,2369,1653,2194.29,CarrierC
+2023-08-23,Edmonton,Winnipeg,1530,1220,1488.43,CarrierB
+2023-10-19,Vancouver,Quebec City,2685,789,2211.85,CarrierE
+2023-09-07,Montreal,Winnipeg,721,1323,1033.07,CarrierC
+2023-09-04,Vancouver,Quebec City,924,604,831.72,CarrierE
+2023-05-18,Ottawa,Calgary,943,685,972.05,CarrierE
+2023-06-27,Montreal,Edmonton,1971,751,1685.93,CarrierD
+2023-10-20,Toronto,Regina,1207,2586,1693.98,CarrierD
+2023-01-29,Regina,Montreal,1832,1766,1824.09,CarrierE
+2023-12-17,Regina,Quebec City,2153,1822,2154.12,CarrierC
+2023-02-05,Ottawa,Toronto,2742,2510,2817.96,CarrierA
+2023-03-13,Winnipeg,Calgary,2526,764,2029.55,CarrierB
+2023-01-01,Regina,Quebec City,1706,2024,1941.9,CarrierC
+2023-05-30,Montreal,Ottawa,931,1116,1075.87,CarrierA
+2023-09-07,Quebec City,Vancouver,1900,2833,2256.81,CarrierC
+2023-10-26,Toronto,Winnipeg,2209,843,1867.93,CarrierA
+2023-02-25,Calgary,Montreal,1583,2796,2086.69,CarrierE
+2023-05-03,Montreal,Ottawa,1502,2479,1966.99,CarrierD
+2023-10-22,Regina,Vancouver,1626,1347,1548.22,CarrierB
+2023-03-29,Ottawa,Montreal,1774,2746,2078.49,CarrierA
+2023-04-14,Halifax,Quebec City,2419,1984,2391.63,CarrierE
+2023-05-10,Montreal,Calgary,2999,614,2433.02,CarrierD
+2023-06-26,Ottawa,Vancouver,790,2145,1283.6,CarrierD
+2023-02-08,Ottawa,Montreal,2761,1047,2351.62,CarrierC
+2023-08-25,Winnipeg,Montreal,1760,2950,2250.29,CarrierD
+2023-02-18,Calgary,Regina,710,2365,1332.09,CarrierE
+2023-02-17,Vancouver,Halifax,1104,2617,1612.94,CarrierC
+2023-07-02,Edmonton,Regina,480,2717,1133.82,CarrierE
+2023-05-03,Regina,Montreal,997,2916,1592.78,CarrierA
+2023-02-06,Vancouver,Ottawa,1138,2544,1681.41,CarrierC
+2023-07-18,Ottawa,Regina,2417,2021,2454.7,CarrierC
+2023-04-23,Regina,Edmonton,1404,1958,1556.77,CarrierC
+2023-07-08,Ottawa,Winnipeg,632,780,764.29,CarrierE
+2023-01-24,Vancouver,Halifax,2468,2771,2763.25,CarrierE
+2023-09-20,Montreal,Regina,1707,830,1500.51,CarrierE
+2023-05-17,Vancouver,Toronto,210,669,402.38,CarrierE
+2023-05-26,Edmonton,Ottawa,358,2903,1172.59,CarrierB
+2023-07-12,Calgary,Montreal,1800,2780,2127.18,CarrierD
+2023-03-19,Vancouver,Montreal,352,2841,1103.01,CarrierD
+2023-02-16,Montreal,Vancouver,1327,1327,1447.42,CarrierC
+2023-07-27,Regina,Quebec City,247,1444,654.83,CarrierD
+2023-11-26,Winnipeg,Vancouver,2795,1756,2559.45,CarrierB
+2023-01-14,Regina,Toronto,759,2922,1363.16,CarrierB
+2023-02-23,Calgary,Toronto,2879,2125,2818.63,CarrierE
+2023-06-08,Quebec City,Ottawa,1014,2207,1486.16,CarrierC
+2023-07-30,Winnipeg,Regina,2808,1089,2496.9,CarrierA
+2023-09-28,Regina,Halifax,575,2573,1111.97,CarrierE
+2023-04-01,Winnipeg,Toronto,2703,2866,2846.16,CarrierD
+2023-04-14,Edmonton,Vancouver,774,838,849.62,CarrierA
+2023-04-19,Quebec City,Montreal,1577,1100,1589.6,CarrierC
+2023-05-12,Edmonton,Vancouver,2089,1266,1881.51,CarrierD
+2023-08-10,Calgary,Quebec City,2301,1798,2220.21,CarrierA
+2023-08-19,Regina,Winnipeg,378,2019,922.0,CarrierB
+2023-10-12,Regina,Quebec City,1718,1378,1664.42,CarrierE
+2023-07-22,Vancouver,Calgary,585,1784,881.34,CarrierD
+2023-02-27,Edmonton,Regina,929,1051,1050.55,CarrierE
+2023-06-15,Toronto,Calgary,1471,2075,1688.86,CarrierA
+2023-08-23,Edmonton,Halifax,819,2063,1158.45,CarrierD
+2023-12-26,Calgary,Toronto,1236,1195,1359.47,CarrierD
+2023-12-18,Montreal,Regina,1347,2820,1947.38,CarrierD
+2023-06-12,Quebec City,Ottawa,598,2841,1233.05,CarrierC
+2023-10-19,Halifax,Ottawa,1039,1833,1261.03,CarrierB
+2023-07-21,Ottawa,Montreal,2211,507,1803.07,CarrierA
+2023-01-19,Ottawa,Regina,2719,2276,2654.66,CarrierD
+2023-04-13,Edmonton,Ottawa,2666,1307,2326.82,CarrierA
+2023-12-05,Toronto,Regina,2804,752,2306.8,CarrierA
+2023-09-21,Montreal,Halifax,1343,546,1247.62,CarrierB
+2023-03-27,Regina,Winnipeg,332,1028,513.66,CarrierC
+2023-06-24,Quebec City,Toronto,925,1270,1025.35,CarrierA
+2023-12-18,Vancouver,Halifax,756,2404,1376.81,CarrierE
+2023-05-21,Quebec City,Ottawa,635,2106,1027.09,CarrierE
+2023-05-21,Winnipeg,Regina,769,2394,1326.72,CarrierE
+2023-01-31,Ottawa,Toronto,2983,876,2457.37,CarrierE
+2023-01-01,Calgary,Ottawa,2221,2408,2414.85,CarrierD
+2023-07-10,Vancouver,Winnipeg,2357,1446,2187.85,CarrierA
+2023-11-09,Quebec City,Regina,2599,1405,2392.74,CarrierC
+2023-10-27,Ottawa,Vancouver,614,1628,927.45,CarrierA
+2023-05-01,Vancouver,Ottawa,761,2694,1422.61,CarrierA
+2023-05-08,Regina,Halifax,375,2341,886.43,CarrierA
+2023-01-25,Regina,Montreal,2495,1662,2440.19,CarrierB
+2023-04-04,Vancouver,Ottawa,239,2931,1035.44,CarrierD
+2023-05-14,Ottawa,Edmonton,2910,2659,2964.08,CarrierB
+2023-09-28,Montreal,Vancouver,1068,1490,1210.27,CarrierB
+2023-01-06,Ottawa,Edmonton,674,2129,1087.91,CarrierD
+2023-09-01,Vancouver,Toronto,1621,2519,1903.96,CarrierD
+2023-03-19,Toronto,Regina,2440,664,2083.82,CarrierB
+2023-07-10,Calgary,Halifax,1261,1506,1476.8,CarrierB
+2023-12-20,Halifax,Calgary,1185,631,1107.2,CarrierD
+2023-10-23,Vancouver,Quebec City,1450,2296,1696.34,CarrierE
+2023-08-13,Toronto,Quebec City,731,635,660.53,CarrierD
+2023-11-26,Regina,Halifax,602,1608,865.26,CarrierD
+2023-07-13,Toronto,Calgary,2926,1291,2548.18,CarrierE
+2023-05-11,Edmonton,Quebec City,588,701,656.19,CarrierD
+2023-05-07,Ottawa,Calgary,1685,1587,1834.06,CarrierE
+2023-01-02,Montreal,Vancouver,2468,1905,2412.13,CarrierE
+2023-07-08,Montreal,Ottawa,829,1664,1045.7,CarrierB
+2023-12-20,Ottawa,Calgary,200,1210,441.73,CarrierB
+2023-02-07,Montreal,Quebec City,1567,2338,1876.07,CarrierA
+2023-11-19,Edmonton,Ottawa,907,1945,1267.13,CarrierD
+2023-12-19,Quebec City,Edmonton,2204,1115,2073.18,CarrierA
+2023-12-15,Calgary,Halifax,947,637,996.57,CarrierD
+2023-02-11,Edmonton,Vancouver,1862,1963,1954.57,CarrierB
+2023-10-31,Regina,Winnipeg,352,1978,819.21,CarrierB
+2023-12-01,Ottawa,Calgary,1171,555,1066.25,CarrierD
+2023-11-02,Winnipeg,Vancouver,2983,1079,2479.86,CarrierD
+2023-04-10,Quebec City,Ottawa,670,1012,815.03,CarrierE
+2023-11-12,Ottawa,Toronto,373,1101,533.29,CarrierE
+2023-04-19,Winnipeg,Calgary,1728,2640,2080.2,CarrierE
+2023-06-10,Toronto,Montreal,347,2596,1034.73,CarrierD
+2023-10-25,Vancouver,Calgary,1706,2264,1946.11,CarrierD
+2023-02-08,Winnipeg,Halifax,835,903,940.05,CarrierE
+2023-03-15,Toronto,Winnipeg,1012,1276,1087.93,CarrierD
+2023-07-01,Halifax,Quebec City,1165,1485,1263.6,CarrierA
+2023-09-19,Halifax,Edmonton,2658,1830,2549.58,CarrierA
+2023-12-19,Regina,Edmonton,794,1849,1216.32,CarrierA
+2023-07-28,Toronto,Quebec City,1993,1783,2069.47,CarrierE
+2023-11-04,Quebec City,Montreal,2977,1869,2893.4,CarrierD
+2023-12-17,Regina,Ottawa,1830,871,1541.98,CarrierA
+2023-01-04,Winnipeg,Halifax,775,762,819.82,CarrierC
+2023-12-03,Calgary,Vancouver,1941,2815,2369.9,CarrierB
+2023-09-09,Vancouver,Halifax,1776,1515,1874.03,CarrierB
+2023-07-03,Edmonton,Vancouver,2833,1335,2585.16,CarrierA
+2023-10-31,Regina,Halifax,328,1604,719.52,CarrierB
+2023-08-13,Edmonton,Halifax,1757,1156,1586.71,CarrierB
+2023-10-23,Quebec City,Toronto,537,540,516.41,CarrierE
+2023-09-24,Vancouver,Ottawa,957,2939,1660.09,CarrierD
+2023-03-27,Vancouver,Montreal,2852,1940,2669.22,CarrierE
+2023-10-29,Regina,Montreal,1548,1559,1561.22,CarrierA
+2023-03-08,Ottawa,Quebec City,1093,702,956.4,CarrierE
+2023-03-28,Edmonton,Regina,1571,1535,1709.67,CarrierE
+2023-06-27,Toronto,Edmonton,832,1576,1109.58,CarrierE
+2023-03-16,Winnipeg,Montreal,1477,2786,1986.28,CarrierB
+2023-05-03,Regina,Ottawa,749,1195,1013.09,CarrierD
+2023-11-17,Montreal,Halifax,562,2778,1334.85,CarrierA
+2023-03-09,Regina,Vancouver,2050,1928,2061.97,CarrierB
+2023-04-13,Regina,Calgary,791,2462,1281.37,CarrierE
+2023-06-01,Toronto,Ottawa,2674,1401,2460.32,CarrierE
+2023-01-17,Quebec City,Toronto,2437,1586,2353.53,CarrierC
+2023-10-12,Calgary,Winnipeg,1678,673,1440.33,CarrierB
+2023-01-01,Edmonton,Quebec City,1923,1484,1951.93,CarrierD
+2023-08-13,Halifax,Regina,2635,2082,2522.75,CarrierA
+2023-10-02,Edmonton,Toronto,294,1679,746.17,CarrierE
+2023-03-05,Regina,Toronto,2183,561,1806.59,CarrierD
+2023-05-20,Montreal,Halifax,2700,1912,2550.75,CarrierB
+2023-06-18,Toronto,Halifax,2668,1976,2596.2,CarrierD
+2023-08-11,Halifax,Regina,2316,929,1933.76,CarrierE
+2023-05-27,Ottawa,Regina,1218,1632,1408.01,CarrierA
+2023-10-11,Toronto,Quebec City,1092,1061,1218.58,CarrierB
+2023-02-14,Regina,Halifax,2839,1961,2803.5,CarrierD
+2023-10-10,Toronto,Vancouver,2449,2034,2467.04,CarrierD
+2023-03-26,Regina,Ottawa,1190,1351,1370.53,CarrierC
+2023-07-14,Ottawa,Winnipeg,1979,2200,2181.38,CarrierD
+2023-03-08,Toronto,Quebec City,1556,1944,1650.68,CarrierD
+2023-12-25,Montreal,Halifax,2224,1981,2341.43,CarrierA
+2023-05-01,Winnipeg,Halifax,354,1848,846.69,CarrierE
+2023-02-16,Calgary,Toronto,2980,1840,2838.4,CarrierA
+2023-08-26,Regina,Montreal,729,1437,940.09,CarrierA
+2023-02-05,Halifax,Toronto,2005,514,1750.93,CarrierC
+2023-10-27,Quebec City,Calgary,560,2401,1138.72,CarrierB
+2023-11-12,Vancouver,Quebec City,334,826,448.11,CarrierB
+2023-12-17,Ottawa,Quebec City,1873,1656,1832.42,CarrierD
+2023-02-28,Regina,Winnipeg,2041,2699,2307.38,CarrierA
+2023-10-10,Ottawa,Calgary,1007,2180,1449.45,CarrierC
+2023-01-27,Halifax,Montreal,1092,928,1120.71,CarrierB
+2023-07-18,Vancouver,Regina,1794,2788,2260.55,CarrierB
+2023-11-14,Ottawa,Montreal,619,2729,1316.5,CarrierB
+2023-11-11,Ottawa,Calgary,1657,2629,2075.23,CarrierE
+2023-02-05,Calgary,Montreal,1338,753,1162.88,CarrierB
+2023-09-14,Toronto,Quebec City,284,520,318.72,CarrierE
+2023-05-09,Calgary,Montreal,1343,586,1238.33,CarrierE
+2023-06-22,Vancouver,Ottawa,2244,2419,2451.72,CarrierB
+2023-04-13,Quebec City,Montreal,403,1558,854.3,CarrierA
+2023-07-03,Winnipeg,Edmonton,1094,1619,1365.9,CarrierE
+2023-01-20,Montreal,Halifax,2428,1251,2203.72,CarrierB
+2023-10-22,Vancouver,Ottawa,2785,1262,2389.66,CarrierB
+2023-04-21,Halifax,Ottawa,1675,1289,1686.33,CarrierC
+2023-11-07,Winnipeg,Edmonton,1880,862,1684.52,CarrierB
+2023-07-22,Winnipeg,Edmonton,2717,2708,2903.65,CarrierD
+2023-08-10,Vancouver,Winnipeg,1948,1840,1956.5,CarrierD
+2023-01-15,Winnipeg,Calgary,2089,2056,2158.85,CarrierB
+2023-09-01,Regina,Calgary,236,1602,593.8,CarrierC
+2023-09-27,Regina,Edmonton,2352,1317,2105.02,CarrierB
+2023-08-11,Calgary,Winnipeg,2315,1280,2180.2,CarrierB
+2023-12-31,Calgary,Edmonton,2471,2679,2569.47,CarrierD
+2023-08-17,Vancouver,Montreal,1374,2065,1576.75,CarrierC
+2023-06-06,Ottawa,Halifax,1752,2418,2131.18,CarrierA
+2023-10-14,Montreal,Toronto,946,2987,1613.62,CarrierE
+2023-11-20,Edmonton,Vancouver,425,1582,771.67,CarrierC
+2023-04-05,Edmonton,Vancouver,2538,2915,2733.0,CarrierA
+2023-10-17,Winnipeg,Ottawa,855,1890,1191.63,CarrierD
+2023-11-24,Vancouver,Quebec City,300,1803,824.71,CarrierB
+2023-04-26,Regina,Toronto,1404,1494,1539.13,CarrierC
+2023-06-02,Winnipeg,Toronto,2302,1079,1958.66,CarrierC
+2023-12-03,Quebec City,Ottawa,2534,1845,2500.22,CarrierB
+2023-11-03,Quebec City,Montreal,1952,2479,2256.43,CarrierE
+2023-11-13,Edmonton,Toronto,922,987,928.98,CarrierA
+2023-02-13,Montreal,Regina,670,2523,1169.7,CarrierB
+2023-11-28,Vancouver,Toronto,1915,1666,1929.62,CarrierE
+2023-03-24,Halifax,Vancouver,2809,1718,2683.28,CarrierC
+2023-06-13,Quebec City,Montreal,1077,2046,1382.58,CarrierC
+2023-04-26,Ottawa,Regina,2070,1641,2101.16,CarrierB
+2023-11-14,Calgary,Regina,2635,1938,2493.65,CarrierC
+2023-11-27,Quebec City,Halifax,1669,2566,1922.49,CarrierC
+2023-06-29,Toronto,Montreal,861,1100,1065.89,CarrierE
+2023-08-06,Montreal,Vancouver,398,2184,965.73,CarrierB
+2023-11-07,Edmonton,Quebec City,320,2155,901.13,CarrierB
+2023-06-14,Vancouver,Ottawa,1530,2488,1837.9,CarrierA
+2023-09-02,Halifax,Calgary,451,840,497.4,CarrierB
+2023-09-13,Ottawa,Edmonton,216,1619,621.44,CarrierD
+2023-01-13,Regina,Edmonton,2361,1330,2120.19,CarrierB
+2023-07-07,Halifax,Toronto,205,988,382.06,CarrierD
+2023-05-26,Regina,Quebec City,545,1001,765.99,CarrierA
+2023-10-13,Halifax,Quebec City,2595,1648,2463.28,CarrierE
+2023-03-02,Edmonton,Regina,2568,664,2057.61,CarrierE
+2023-04-12,Regina,Quebec City,593,2284,1173.28,CarrierB
+2023-02-02,Winnipeg,Edmonton,747,798,879.34,CarrierE
+2023-10-01,Halifax,Montreal,1781,2940,2249.98,CarrierA
+2023-01-03,Montreal,Winnipeg,911,2394,1358.4,CarrierC
+2023-08-06,Winnipeg,Edmonton,2783,2832,2933.47,CarrierD
+2023-07-15,Halifax,Ottawa,752,2322,1288.46,CarrierA
+2023-05-16,Regina,Montreal,2762,527,2182.6,CarrierD
+2023-01-31,Regina,Winnipeg,391,1958,828.51,CarrierB
+2023-07-16,Edmonton,Quebec City,283,805,476.74,CarrierD
+2023-11-18,Regina,Toronto,2798,1243,2405.99,CarrierB
+2023-02-06,Montreal,Calgary,355,1427,740.24,CarrierD
+2023-12-12,Halifax,Quebec City,1406,2765,1939.26,CarrierC
+2023-12-03,Vancouver,Calgary,2818,2057,2812.48,CarrierC
+2023-08-06,Edmonton,Halifax,377,2488,1124.99,CarrierA
+2023-11-06,Regina,Edmonton,1891,2047,1992.42,CarrierE
+2023-09-25,Ottawa,Edmonton,1161,2464,1644.66,CarrierC
+2023-01-06,Winnipeg,Montreal,2850,2118,2751.21,CarrierE
+2023-10-05,Montreal,Winnipeg,523,782,703.35,CarrierD
+2023-12-19,Calgary,Ottawa,1868,725,1715.19,CarrierD
+2023-03-22,Calgary,Winnipeg,1489,1235,1553.4,CarrierD
+2023-05-30,Toronto,Halifax,2908,2363,2853.09,CarrierA
+2023-09-22,Toronto,Quebec City,598,1741,1014.66,CarrierB
+2023-12-14,Regina,Ottawa,1185,2614,1710.29,CarrierE
+2023-12-06,Halifax,Montreal,1334,2376,1614.54,CarrierC
+2023-10-06,Quebec City,Edmonton,2245,891,1957.4,CarrierA
+2023-07-22,Calgary,Quebec City,2614,1454,2384.2,CarrierE
+2023-10-02,Montreal,Ottawa,1521,998,1451.36,CarrierA
+2023-05-09,Calgary,Edmonton,1515,2109,1726.88,CarrierB
+2023-01-14,Ottawa,Edmonton,2515,1936,2401.41,CarrierB
+2023-07-26,Winnipeg,Edmonton,220,2249,834.4,CarrierA
+2023-05-18,Ottawa,Toronto,1964,2625,2252.39,CarrierE
+2023-02-08,Toronto,Montreal,2824,1312,2496.37,CarrierB
+2023-09-10,Montreal,Regina,1609,2302,1849.59,CarrierC
+2023-05-01,Toronto,Montreal,1097,2372,1616.87,CarrierD
+2023-01-15,Montreal,Toronto,2078,2606,2358.44,CarrierB
+2023-06-01,Regina,Halifax,1137,1358,1219.65,CarrierE
+2023-10-09,Toronto,Montreal,2615,1823,2571.61,CarrierB
+2023-02-06,Calgary,Regina,208,1082,395.53,CarrierD
+2023-06-20,Montreal,Winnipeg,299,2487,959.21,CarrierB
+2023-02-27,Calgary,Vancouver,305,806,466.09,CarrierA
+2023-06-04,Toronto,Regina,1668,1889,1816.4,CarrierD
+2023-12-02,Ottawa,Quebec City,2283,2012,2232.45,CarrierC
+2023-05-01,Halifax,Vancouver,2507,2376,2509.78,CarrierA
+2023-05-01,Vancouver,Regina,2370,778,1980.94,CarrierB
+2023-11-14,Edmonton,Halifax,1860,2479,2077.28,CarrierB
+2023-08-08,Vancouver,Halifax,2776,1195,2537.17,CarrierB
+2023-04-25,Vancouver,Ottawa,2145,2451,2421.56,CarrierA
+2023-03-21,Toronto,Montreal,2586,792,2105.05,CarrierB
+2023-03-22,Toronto,Calgary,1136,579,963.45,CarrierD
+2023-03-23,Vancouver,Winnipeg,1966,1400,1889.22,CarrierA
+2023-10-29,Regina,Montreal,1447,1532,1468.91,CarrierC
+2023-08-30,Ottawa,Halifax,417,1143,711.51,CarrierE
+2023-04-01,Edmonton,Ottawa,1186,1129,1290.27,CarrierE
+2023-05-15,Toronto,Regina,2800,1715,2531.98,CarrierC
+2023-09-06,Toronto,Ottawa,2692,2412,2673.18,CarrierB
+2023-02-21,Halifax,Quebec City,253,2041,722.7,CarrierA
+2023-09-22,Calgary,Vancouver,2384,2494,2532.92,CarrierA
+2023-06-17,Regina,Quebec City,1840,1677,1881.08,CarrierA
+2023-03-23,Toronto,Regina,1162,2754,1679.89,CarrierB
+2023-02-18,Quebec City,Ottawa,1319,2090,1608.34,CarrierB
+2023-09-19,Toronto,Ottawa,1069,1372,1159.42,CarrierD
+2023-04-30,Winnipeg,Ottawa,2756,1562,2468.43,CarrierB
+2023-05-04,Toronto,Montreal,2008,1204,1780.24,CarrierD
+2023-03-09,Toronto,Quebec City,837,842,930.54,CarrierD
+2023-10-16,Winnipeg,Quebec City,602,558,594.78,CarrierC
+2023-09-02,Edmonton,Toronto,295,1397,634.68,CarrierA
+2023-07-21,Quebec City,Regina,2128,2749,2383.64,CarrierB
+2023-03-09,Regina,Halifax,1424,2577,1814.13,CarrierC
+2023-11-21,Edmonton,Quebec City,1256,841,1124.03,CarrierA
+2023-12-17,Winnipeg,Toronto,1185,1277,1318.11,CarrierB
+2023-07-14,Regina,Winnipeg,2638,731,2206.4,CarrierA
+2023-10-18,Ottawa,Toronto,2241,1400,2034.39,CarrierC
+2023-12-17,Winnipeg,Calgary,2677,2171,2691.75,CarrierE
+2023-01-07,Ottawa,Montreal,646,2667,1312.1,CarrierB
+2023-01-26,Regina,Toronto,2535,1600,2360.15,CarrierA
+2023-03-08,Montreal,Vancouver,821,2473,1308.67,CarrierA
+2023-02-03,Halifax,Quebec City,2558,709,2167.5,CarrierA
+2023-03-23,Vancouver,Winnipeg,1330,1236,1362.19,CarrierD
+2023-05-07,Edmonton,Quebec City,2951,1587,2772.97,CarrierC
+2023-02-07,Calgary,Montreal,1644,1392,1588.69,CarrierD
+2023-01-28,Halifax,Calgary,1356,2910,1836.27,CarrierB
+2023-06-26,Ottawa,Halifax,1692,1906,1904.03,CarrierC
+2023-12-09,Calgary,Regina,2398,1032,2053.66,CarrierC
+2023-04-19,Vancouver,Calgary,2784,677,2196.81,CarrierA
+2023-10-20,Ottawa,Edmonton,2540,1279,2307.14,CarrierC
+2023-01-06,Toronto,Quebec City,2547,2048,2517.67,CarrierB
+2023-07-28,Toronto,Edmonton,2025,508,1729.81,CarrierC
+2023-02-25,Toronto,Halifax,1516,1606,1628.2,CarrierC
+2023-10-02,Vancouver,Quebec City,1699,2187,1902.32,CarrierB
+2023-05-13,Edmonton,Calgary,1762,2422,2008.51,CarrierC
+2023-10-18,Regina,Edmonton,845,1291,1021.51,CarrierD
+2023-10-22,Winnipeg,Halifax,979,1237,1180.02,CarrierA
+2023-08-24,Montreal,Edmonton,2178,710,1943.89,CarrierB
+2023-10-29,Calgary,Winnipeg,1663,1565,1665.69,CarrierE
+2023-10-09,Halifax,Vancouver,875,1978,1317.29,CarrierA
+2023-04-18,Montreal,Ottawa,827,2821,1416.2,CarrierD
+2023-07-14,Halifax,Edmonton,2633,2153,2628.45,CarrierD
+2023-09-28,Vancouver,Calgary,230,2205,744.46,CarrierB
+2023-02-02,Quebec City,Winnipeg,2173,900,1927.61,CarrierA
+2023-08-30,Toronto,Edmonton,2787,1460,2438.98,CarrierA
+2023-04-04,Montreal,Ottawa,504,2706,1270.48,CarrierD
+2023-07-15,Calgary,Regina,2117,2833,2516.2,CarrierA
+2023-01-16,Calgary,Halifax,1140,1236,1289.17,CarrierA
+2023-04-15,Vancouver,Calgary,2101,2060,2233.07,CarrierA
+2023-03-07,Edmonton,Halifax,2490,1165,2296.59,CarrierE
+2023-10-11,Winnipeg,Vancouver,1580,2645,2028.77,CarrierB
+2023-04-28,Calgary,Regina,2554,1852,2384.99,CarrierC
+2023-10-24,Calgary,Montreal,2618,1671,2487.15,CarrierA
+2023-06-19,Montreal,Vancouver,1462,1721,1559.53,CarrierB
+2023-02-17,Quebec City,Edmonton,2926,904,2440.91,CarrierA
+2023-01-17,Halifax,Montreal,687,2191,1158.69,CarrierB
+2023-10-27,Edmonton,Quebec City,664,1794,1007.55,CarrierA
+2023-10-05,Winnipeg,Ottawa,1961,2023,1989.15,CarrierD
+2023-01-22,Edmonton,Quebec City,2934,2738,3084.49,CarrierB
+2023-10-11,Regina,Edmonton,2134,1140,2028.68,CarrierD
+2023-03-04,Calgary,Vancouver,2253,1346,1996.2,CarrierD
+2023-01-15,Edmonton,Toronto,1646,1867,1775.31,CarrierD
+2023-04-05,Halifax,Calgary,897,904,924.22,CarrierD
+2023-08-09,Toronto,Regina,2954,1401,2545.15,CarrierE
+2023-06-04,Quebec City,Toronto,1391,2424,1822.39,CarrierC
+2023-01-24,Edmonton,Calgary,588,2010,1141.82,CarrierC
+2023-01-01,Regina,Vancouver,2974,1840,2876.39,CarrierA
+2023-03-21,Halifax,Montreal,832,2796,1489.6,CarrierE
+2023-11-27,Toronto,Winnipeg,1357,2724,1878.07,CarrierD
+2023-09-10,Montreal,Vancouver,1918,1732,2054.64,CarrierB
+2023-11-23,Winnipeg,Regina,566,2250,1190.49,CarrierC
+2023-09-20,Ottawa,Halifax,1328,2874,1781.47,CarrierC
+2023-09-15,Vancouver,Winnipeg,1670,779,1484.32,CarrierD
+2023-09-05,Toronto,Montreal,2363,2005,2373.09,CarrierC
+2023-02-20,Halifax,Ottawa,1505,845,1391.6,CarrierC
+2023-10-17,Halifax,Edmonton,2312,1913,2269.64,CarrierC
+2023-05-24,Regina,Edmonton,426,2192,960.24,CarrierA
+2023-12-23,Regina,Edmonton,1659,2782,2003.35,CarrierC
+2023-04-09,Winnipeg,Montreal,2297,1909,2225.48,CarrierC
+2023-05-10,Winnipeg,Quebec City,664,1453,883.75,CarrierC
+2023-03-30,Quebec City,Winnipeg,2208,2741,2550.05,CarrierA
+2023-07-11,Ottawa,Toronto,2821,2229,2749.2,CarrierD
+2023-11-03,Quebec City,Halifax,2245,1935,2186.75,CarrierA
+2023-12-10,Montreal,Calgary,2259,1830,2213.1,CarrierA
+2023-06-13,Edmonton,Regina,2514,2291,2652.93,CarrierC
+2023-04-02,Calgary,Regina,707,1686,1063.04,CarrierA
+2023-08-06,Montreal,Winnipeg,1135,1007,1142.4,CarrierA
+2023-01-13,Winnipeg,Edmonton,2749,1672,2653.29,CarrierC
+2023-12-11,Ottawa,Winnipeg,1372,2111,1587.61,CarrierB
+2023-10-01,Calgary,Quebec City,2827,2552,2893.82,CarrierB
+2023-05-21,Toronto,Ottawa,762,2588,1339.31,CarrierD
+2023-04-08,Toronto,Calgary,957,1303,1091.26,CarrierC
+2023-11-17,Winnipeg,Vancouver,2347,794,2000.02,CarrierA
+2023-08-12,Edmonton,Ottawa,960,2962,1632.82,CarrierD
+2023-08-16,Quebec City,Regina,598,2996,1444.35,CarrierA
+2023-02-14,Toronto,Regina,1749,1936,1951.36,CarrierC
+2023-01-28,Winnipeg,Calgary,969,2649,1504.04,CarrierE
+2023-12-26,Calgary,Halifax,1979,2281,2177.46,CarrierA
+2023-06-23,Halifax,Ottawa,246,1753,784.19,CarrierE
+2023-03-17,Edmonton,Toronto,1699,2542,2085.04,CarrierE
+2023-05-21,Ottawa,Quebec City,1335,2540,1852.65,CarrierC
+2023-06-07,Vancouver,Halifax,840,2155,1264.43,CarrierC
+2023-05-26,Ottawa,Calgary,1414,694,1193.25,CarrierC
+2023-10-21,Calgary,Halifax,2171,723,1899.73,CarrierB
+2023-05-24,Halifax,Toronto,1469,1398,1488.34,CarrierB
+2023-01-02,Regina,Winnipeg,2736,827,2398.33,CarrierB
+2023-10-14,Ottawa,Halifax,2064,1700,2120.52,CarrierD
+2023-06-20,Quebec City,Vancouver,1668,2794,2095.67,CarrierE
+2023-09-10,Ottawa,Montreal,1574,952,1398.56,CarrierC
+2023-06-23,Vancouver,Regina,299,1960,908.98,CarrierE
+2023-04-25,Winnipeg,Calgary,2219,766,1936.59,CarrierB
+2023-07-11,Calgary,Edmonton,663,2766,1336.78,CarrierC
+2023-06-18,Vancouver,Edmonton,2375,2361,2394.35,CarrierD
+2023-05-01,Halifax,Montreal,2425,1521,2179.18,CarrierA
+2023-10-14,Regina,Calgary,2518,2214,2527.53,CarrierD
+2023-11-08,Regina,Ottawa,761,691,827.98,CarrierD
+2023-08-13,Edmonton,Ottawa,1420,1799,1513.25,CarrierC
+2023-10-02,Toronto,Regina,904,657,871.9,CarrierA
+2023-02-20,Vancouver,Winnipeg,1780,961,1549.72,CarrierC
+2023-03-16,Ottawa,Vancouver,1828,1300,1708.84,CarrierD
+2023-07-16,Vancouver,Edmonton,236,2402,803.43,CarrierA
+2023-08-12,Winnipeg,Toronto,2073,639,1836.85,CarrierA
+2023-01-11,Quebec City,Montreal,408,2286,1046.98,CarrierD
+2023-01-12,Regina,Ottawa,428,1374,640.04,CarrierC
+2023-04-02,Ottawa,Halifax,1166,953,1132.01,CarrierD
+2023-07-11,Edmonton,Winnipeg,774,1613,1006.2,CarrierB
+2023-06-13,Regina,Halifax,2954,1787,2770.14,CarrierA
+2023-04-02,Winnipeg,Ottawa,1038,2880,1739.51,CarrierC
+2023-10-11,Edmonton,Quebec City,297,1324,686.49,CarrierD
+2023-10-05,Vancouver,Quebec City,2798,1565,2631.33,CarrierB
+2023-02-24,Edmonton,Vancouver,2472,2669,2584.04,CarrierD
+2023-12-12,Toronto,Quebec City,1920,1806,1961.48,CarrierA
+2023-11-02,Regina,Quebec City,1686,2433,2015.06,CarrierE
+2023-08-21,Quebec City,Halifax,2940,2601,2939.48,CarrierA
+2023-10-13,Montreal,Edmonton,351,1492,794.7,CarrierA
+2023-09-15,Quebec City,Ottawa,2702,1537,2583.88,CarrierC
+2023-11-28,Winnipeg,Vancouver,1785,1947,1932.54,CarrierE
+2023-05-06,Edmonton,Regina,383,1230,628.6,CarrierD
+2023-03-07,Regina,Quebec City,323,1122,586.25,CarrierE
+2023-05-03,Montreal,Ottawa,2626,1123,2345.12,CarrierA
+2023-02-05,Quebec City,Vancouver,2070,1420,1896.47,CarrierE
+2023-12-29,Regina,Halifax,1627,2578,2004.45,CarrierE
+2023-06-19,Toronto,Halifax,1527,1809,1781.97,CarrierD
+2023-07-18,Regina,Calgary,1461,1898,1663.76,CarrierE
+2023-12-23,Ottawa,Calgary,2275,2607,2494.08,CarrierA
+2023-01-13,Edmonton,Ottawa,2515,1465,2237.43,CarrierE
+2023-08-08,Vancouver,Toronto,2611,2293,2645.38,CarrierD
+2023-08-31,Montreal,Regina,2308,2481,2482.01,CarrierE
+2023-06-18,Winnipeg,Vancouver,1563,861,1347.72,CarrierC
+2023-11-20,Halifax,Vancouver,1605,1761,1734.38,CarrierD
+2023-10-23,Quebec City,Vancouver,2771,2144,2738.75,CarrierB
+2023-06-05,Regina,Ottawa,2446,1563,2339.58,CarrierE
+2023-12-24,Vancouver,Regina,2732,2441,2715.09,CarrierB
+2023-02-08,Regina,Toronto,745,2007,1069.85,CarrierD
+2023-05-29,Montreal,Winnipeg,2357,1485,2262.12,CarrierC
+2023-11-08,Montreal,Vancouver,1741,560,1383.89,CarrierC
+2023-07-20,Toronto,Edmonton,2813,544,2185.42,CarrierE
+2023-01-30,Edmonton,Quebec City,816,2668,1463.11,CarrierB
+2023-08-28,Ottawa,Quebec City,733,2231,1315.97,CarrierC
+2023-08-06,Edmonton,Vancouver,1707,1981,1951.67,CarrierE
+2023-09-23,Quebec City,Montreal,347,955,509.52,CarrierE
+2023-07-30,Toronto,Calgary,2338,2913,2579.49,CarrierB
+2023-02-13,Calgary,Toronto,547,1138,706.34,CarrierD
+2023-06-30,Halifax,Vancouver,382,1502,641.26,CarrierD
+2023-10-15,Vancouver,Quebec City,1692,1906,1829.32,CarrierA
+2023-08-07,Halifax,Quebec City,2227,1304,2152.97,CarrierD
+2023-03-09,Regina,Ottawa,2791,2796,2999.49,CarrierC
+2023-05-11,Winnipeg,Edmonton,647,1187,822.31,CarrierC
+2023-08-04,Edmonton,Winnipeg,1091,1606,1355.61,CarrierB
+2023-03-01,Edmonton,Toronto,2038,2108,2181.35,CarrierA
+2023-03-18,Montreal,Ottawa,775,1449,1012.8,CarrierC
+2023-10-17,Quebec City,Edmonton,621,2495,1148.37,CarrierD
+2023-12-10,Halifax,Quebec City,1172,1800,1393.39,CarrierD
+2023-05-04,Regina,Edmonton,967,880,948.32,CarrierC
+2023-06-07,Toronto,Calgary,1194,2418,1546.26,CarrierA
+2023-04-09,Calgary,Halifax,975,1614,1159.05,CarrierB
+2023-12-19,Winnipeg,Vancouver,2955,1398,2621.02,CarrierD
+2023-06-03,Calgary,Ottawa,2463,2025,2414.43,CarrierC
+2023-10-21,Quebec City,Edmonton,849,1481,996.05,CarrierB
+2023-10-19,Quebec City,Montreal,2527,2218,2462.27,CarrierB
+2023-03-11,Edmonton,Winnipeg,367,1604,704.4,CarrierD
+2023-04-11,Regina,Ottawa,723,2472,1225.98,CarrierC
+2023-08-29,Toronto,Regina,1854,882,1682.04,CarrierB
+2023-08-12,Vancouver,Toronto,2800,2531,2870.25,CarrierE
+2023-07-17,Regina,Toronto,1438,2047,1616.34,CarrierB
+2023-01-07,Winnipeg,Halifax,565,2485,1162.4,CarrierC
+2023-07-24,Montreal,Halifax,1168,855,1126.76,CarrierB
+2023-07-28,Winnipeg,Calgary,1541,675,1423.06,CarrierB
+2023-10-28,Quebec City,Ottawa,1560,2443,1915.62,CarrierA
+2023-08-28,Ottawa,Toronto,2386,883,1955.55,CarrierE
+2023-10-12,Toronto,Edmonton,1932,2597,2316.96,CarrierD
+2023-10-09,Regina,Toronto,2316,786,2060.5,CarrierA
+2023-08-03,Quebec City,Vancouver,647,955,714.97,CarrierB
+2023-04-16,Toronto,Montreal,1596,1948,1837.41,CarrierC
+2023-09-10,Montreal,Halifax,267,1197,477.0,CarrierE
+2023-10-02,Winnipeg,Calgary,1666,883,1589.62,CarrierC
+2023-01-14,Toronto,Regina,2623,562,2098.31,CarrierE
+2023-02-03,Toronto,Edmonton,2875,2224,2820.52,CarrierC
+2023-06-09,Edmonton,Halifax,237,2924,1149.09,CarrierA
+2023-12-20,Vancouver,Quebec City,236,663,442.74,CarrierD
+2023-04-20,Ottawa,Winnipeg,666,1791,1108.68,CarrierA
+2023-02-06,Calgary,Montreal,1084,1251,1181.3,CarrierB
+2023-03-24,Calgary,Toronto,263,1562,589.59,CarrierA
+2023-11-27,Vancouver,Montreal,1093,2068,1350.15,CarrierC
+2023-03-09,Montreal,Quebec City,952,2929,1669.81,CarrierE
+2023-07-21,Quebec City,Halifax,1456,1845,1559.77,CarrierA
+2023-08-20,Edmonton,Toronto,1914,2725,2178.56,CarrierD
+2023-04-20,Toronto,Regina,933,2919,1515.92,CarrierB
+2023-04-03,Regina,Quebec City,1570,1905,1837.78,CarrierB
+2023-05-01,Toronto,Montreal,2725,1292,2463.2,CarrierD
+2023-04-13,Toronto,Edmonton,820,1248,1020.48,CarrierE
+2023-07-31,Vancouver,Halifax,1892,2090,2014.37,CarrierD
+2023-03-14,Montreal,Winnipeg,2929,581,2351.78,CarrierE
+2023-04-14,Quebec City,Ottawa,1683,1655,1758.53,CarrierB
+2023-10-11,Edmonton,Winnipeg,2184,1080,1919.57,CarrierD
+2023-02-09,Toronto,Quebec City,1876,944,1690.67,CarrierD
+2023-04-29,Quebec City,Regina,2360,632,1988.09,CarrierA
+2023-02-14,Quebec City,Edmonton,1761,730,1462.44,CarrierA
+2023-07-30,Ottawa,Toronto,2085,1880,2154.74,CarrierB
+2023-05-29,Calgary,Montreal,1678,797,1575.01,CarrierC
+2023-10-18,Winnipeg,Regina,2096,1806,2041.36,CarrierD
+2023-05-24,Winnipeg,Ottawa,1725,1355,1631.22,CarrierA
+2023-10-25,Winnipeg,Halifax,642,1766,957.48,CarrierC
+2023-09-18,Quebec City,Halifax,2067,2607,2266.63,CarrierD
+2023-06-06,Quebec City,Ottawa,2379,764,1973.11,CarrierC
+2023-12-26,Edmonton,Montreal,1285,1602,1361.72,CarrierB
+2023-09-27,Montreal,Edmonton,2258,1520,2179.56,CarrierD
+2023-10-10,Edmonton,Winnipeg,2545,693,2191.55,CarrierD
+2023-02-08,Toronto,Ottawa,795,1294,1049.0,CarrierA
+2023-10-24,Edmonton,Ottawa,1100,2194,1458.18,CarrierE
+2023-10-23,Regina,Ottawa,487,2011,1011.82,CarrierC
+2023-10-16,Winnipeg,Halifax,2234,2376,2400.99,CarrierC
+2023-09-24,Toronto,Calgary,882,1545,1088.59,CarrierA
+2023-08-01,Winnipeg,Edmonton,2116,701,1783.35,CarrierB
+2023-03-25,Regina,Edmonton,1040,1407,1196.62,CarrierD
+2023-10-23,Edmonton,Calgary,601,1086,735.54,CarrierA
+2023-03-19,Calgary,Regina,1636,988,1464.84,CarrierA
+2023-09-14,Halifax,Regina,466,2037,1041.14,CarrierE
+2023-07-19,Winnipeg,Quebec City,698,1982,1211.28,CarrierE
+2023-06-12,Vancouver,Calgary,1855,2976,2277.87,CarrierE
+2023-08-25,Toronto,Winnipeg,2727,1674,2513.54,CarrierB
+2023-06-21,Regina,Vancouver,1462,1745,1625.01,CarrierA
+2023-03-09,Halifax,Quebec City,1146,2701,1670.1,CarrierE
+2023-12-30,Calgary,Vancouver,282,2986,1189.83,CarrierD
+2023-05-10,Calgary,Quebec City,1240,2042,1559.92,CarrierE
+2023-09-09,Quebec City,Toronto,2521,1778,2422.25,CarrierC
+2023-09-01,Quebec City,Edmonton,2379,2388,2524.73,CarrierA
+2023-07-29,Quebec City,Toronto,2532,2058,2566.97,CarrierC
+2023-12-22,Edmonton,Montreal,1757,714,1533.72,CarrierE
+2023-12-14,Quebec City,Toronto,2842,876,2491.35,CarrierC
+2023-06-01,Regina,Ottawa,2099,2963,2446.54,CarrierB
+2023-10-05,Quebec City,Vancouver,657,975,729.15,CarrierA
+2023-07-04,Calgary,Edmonton,2730,1802,2681.43,CarrierD
+2023-10-18,Regina,Winnipeg,1887,1283,1877.64,CarrierD
+2023-09-12,Edmonton,Toronto,1836,2740,2223.48,CarrierB
+2023-11-11,Calgary,Ottawa,1984,1260,1904.92,CarrierD
+2023-04-08,Montreal,Edmonton,2936,730,2349.66,CarrierA
+2023-12-14,Calgary,Halifax,1285,2138,1666.01,CarrierD
+2023-01-13,Vancouver,Edmonton,2982,2081,2870.83,CarrierA
+2023-02-25,Edmonton,Vancouver,795,1259,936.35,CarrierD
+2023-04-13,Toronto,Ottawa,963,1074,969.81,CarrierB
+2023-02-24,Winnipeg,Calgary,2658,837,2308.58,CarrierA
+2023-10-17,Calgary,Ottawa,2710,2475,2725.73,CarrierE
+2023-04-08,Toronto,Vancouver,1602,2125,1917.96,CarrierE
+2023-05-06,Calgary,Vancouver,316,1147,553.69,CarrierA
+2023-10-23,Halifax,Vancouver,2863,2519,2926.77,CarrierB
+2023-02-25,Quebec City,Ottawa,1815,2364,2106.55,CarrierE
+2023-05-26,Winnipeg,Edmonton,1331,984,1319.99,CarrierA
+2023-12-02,Ottawa,Montreal,628,1538,965.11,CarrierA
+2023-07-17,Ottawa,Edmonton,2589,2283,2645.9,CarrierB
+2023-08-12,Montreal,Vancouver,2024,2466,2337.42,CarrierA
+2023-01-19,Ottawa,Toronto,2238,2884,2478.45,CarrierD
+2023-10-01,Vancouver,Halifax,1465,1581,1494.73,CarrierA
+2024-01-01,Ottawa,Winnipeg,768,1632,980.65,CarrierE
+2023-09-02,Toronto,Montreal,568,1113,718.35,CarrierA
+2023-03-19,Halifax,Ottawa,638,2298,1221.41,CarrierC
+2023-02-27,Vancouver,Winnipeg,1064,1058,1094.18,CarrierD
+2023-02-18,Toronto,Montreal,1385,1701,1633.77,CarrierA
+2023-06-28,Quebec City,Halifax,1086,1311,1133.31,CarrierA
+2024-01-01,Vancouver,Regina,961,2168,1417.48,CarrierE
+2023-08-05,Regina,Ottawa,2798,2317,2751.91,CarrierE
+2023-02-26,Regina,Montreal,835,2407,1389.33,CarrierE
+2023-06-13,Ottawa,Quebec City,1432,2671,1955.91,CarrierC
+2023-03-10,Halifax,Toronto,1051,933,1123.06,CarrierE
+2023-11-26,Ottawa,Calgary,2233,1709,2262.21,CarrierA
+2023-02-23,Ottawa,Montreal,2669,2373,2721.53,CarrierC
+2023-03-10,Vancouver,Regina,1115,2337,1610.1,CarrierA
+2023-08-19,Toronto,Halifax,1579,2962,2164.45,CarrierC
+2023-03-07,Edmonton,Toronto,1602,1130,1555.24,CarrierC
+2023-04-21,Toronto,Winnipeg,2361,739,2074.83,CarrierB
+2023-04-15,Toronto,Calgary,2042,2368,2338.79,CarrierB
+2023-09-09,Toronto,Halifax,264,820,410.74,CarrierE
+2023-05-13,Montreal,Calgary,2634,828,2163.0,CarrierE
+2023-09-18,Edmonton,Winnipeg,495,2674,1106.97,CarrierA
+2023-08-29,Halifax,Vancouver,473,2841,1266.16,CarrierB
+2023-05-27,Montreal,Regina,592,1942,940.33,CarrierE
+2023-04-10,Vancouver,Edmonton,564,2186,1076.34,CarrierD
+2023-06-04,Quebec City,Calgary,2127,2020,2178.76,CarrierD
+2023-12-11,Winnipeg,Regina,1116,2512,1662.42,CarrierE
+2023-04-19,Winnipeg,Calgary,2543,2946,2835.47,CarrierC
+2023-07-15,Ottawa,Regina,369,1724,730.82,CarrierA
+2023-01-12,Ottawa,Montreal,704,1937,1093.88,CarrierD
+2023-05-02,Winnipeg,Regina,383,978,516.28,CarrierE
+2023-11-28,Vancouver,Calgary,1196,1080,1191.85,CarrierE
+2023-07-17,Vancouver,Regina,314,2535,960.4,CarrierD
+2023-12-18,Regina,Montreal,1435,2195,1782.07,CarrierA
+2023-01-03,Ottawa,Halifax,2809,1234,2557.4,CarrierD
+2023-08-29,Quebec City,Edmonton,996,2002,1358.79,CarrierE
+2023-08-21,Ottawa,Toronto,1023,1347,1229.43,CarrierD
+2023-02-09,Calgary,Vancouver,1145,1320,1206.98,CarrierE
+2023-04-29,Edmonton,Toronto,2058,2708,2435.39,CarrierC
+2023-06-21,Regina,Edmonton,536,1329,793.1,CarrierD
+2023-11-22,Edmonton,Regina,2629,1858,2602.84,CarrierC
+2023-06-28,Vancouver,Edmonton,1728,875,1625.64,CarrierD
+2023-01-01,Vancouver,Montreal,843,1648,1153.32,CarrierC
+2023-07-15,Winnipeg,Montreal,1473,2119,1835.7,CarrierC
+2023-11-11,Quebec City,Halifax,2298,1050,2053.73,CarrierB
+2023-12-08,Toronto,Vancouver,1351,1547,1556.27,CarrierA
+2023-04-18,Edmonton,Halifax,264,945,528.68,CarrierE
+2023-01-10,Regina,Montreal,2678,1191,2441.41,CarrierD
+2023-10-17,Vancouver,Edmonton,473,1169,634.54,CarrierD
+2023-06-12,Ottawa,Vancouver,1662,2973,2190.85,CarrierA
+2023-05-03,Montreal,Halifax,2743,1619,2550.02,CarrierB
+2023-01-11,Montreal,Ottawa,692,2869,1432.83,CarrierD
+2023-12-14,Montreal,Edmonton,1833,996,1577.95,CarrierB
+2023-04-23,Edmonton,Regina,1541,2178,1751.83,CarrierB
+2023-11-22,Halifax,Winnipeg,2196,1793,2180.66,CarrierC
+2023-12-02,Calgary,Montreal,1094,922,1088.24,CarrierE
+2023-11-08,Vancouver,Quebec City,1118,2403,1655.23,CarrierB
+2023-05-13,Regina,Edmonton,2329,2983,2599.41,CarrierD
+2023-12-17,Winnipeg,Toronto,1148,2250,1492.75,CarrierA
+2023-05-18,Quebec City,Toronto,362,2819,1157.75,CarrierD
+2023-08-03,Winnipeg,Ottawa,2002,2023,2127.26,CarrierC
+2023-04-20,Edmonton,Montreal,2551,1010,2243.56,CarrierA
+2023-07-24,Vancouver,Halifax,1825,2227,2042.31,CarrierE
+2023-12-24,Vancouver,Quebec City,2085,2112,2098.04,CarrierD
+2023-04-06,Toronto,Regina,2530,1554,2342.56,CarrierE
+2023-05-10,Toronto,Quebec City,1885,2867,2194.9,CarrierE
+2023-09-12,Quebec City,Ottawa,468,1064,754.5,CarrierC
+2023-06-28,Quebec City,Calgary,1901,1671,1945.1,CarrierB
+2024-01-01,Quebec City,Calgary,1176,1933,1545.89,CarrierE
+2023-11-10,Montreal,Vancouver,874,688,811.95,CarrierA
+2023-03-22,Toronto,Ottawa,1423,2064,1765.91,CarrierB
+2023-08-22,Edmonton,Vancouver,822,2370,1346.88,CarrierB
+2023-04-09,Toronto,Edmonton,586,1999,940.46,CarrierA
+2023-08-04,Toronto,Regina,744,980,853.34,CarrierD
+2023-01-14,Vancouver,Calgary,222,2940,1048.11,CarrierD
+2023-09-23,Edmonton,Calgary,1102,2082,1482.88,CarrierC
+2023-03-20,Ottawa,Regina,1526,791,1438.86,CarrierB
+2023-10-30,Winnipeg,Calgary,1084,2344,1439.32,CarrierA
+2023-12-15,Montreal,Regina,1022,2163,1461.47,CarrierB
+2023-11-20,Halifax,Quebec City,2108,2827,2492.76,CarrierA
+2023-09-21,Vancouver,Ottawa,2690,1411,2402.31,CarrierB
+2023-02-08,Regina,Montreal,2092,2146,2170.81,CarrierA
+2023-01-18,Toronto,Vancouver,2592,1302,2239.04,CarrierB
+2024-01-01,Quebec City,Calgary,2539,1462,2405.86,CarrierD
+2023-07-10,Montreal,Calgary,1151,814,1080.4,CarrierE
+2023-11-22,Montreal,Vancouver,2353,2308,2494.24,CarrierA
+2023-01-21,Calgary,Vancouver,2495,1486,2296.54,CarrierB
+2023-12-06,Halifax,Montreal,346,2080,847.99,CarrierA
+2023-02-14,Edmonton,Ottawa,2944,1252,2610.54,CarrierD
+2023-12-06,Quebec City,Regina,679,858,706.4,CarrierA
+2023-12-23,Ottawa,Edmonton,2008,1766,2007.59,CarrierA
+2023-09-19,Calgary,Toronto,1945,862,1723.51,CarrierD
+2023-02-26,Halifax,Edmonton,417,2909,1120.04,CarrierE
+2023-06-29,Halifax,Winnipeg,885,768,900.81,CarrierA
+2023-01-25,Edmonton,Vancouver,2351,1596,2340.35,CarrierC
+2023-06-17,Ottawa,Edmonton,1919,1473,1814.32,CarrierA
+2023-01-09,Toronto,Quebec City,697,2503,1211.52,CarrierD
+2023-10-20,Toronto,Winnipeg,1213,2690,1793.21,CarrierD
+2023-05-16,Halifax,Winnipeg,2464,997,2075.97,CarrierA
+2023-05-17,Toronto,Calgary,960,1104,964.6,CarrierD
+2023-02-10,Calgary,Montreal,2288,2001,2265.03,CarrierA
+2023-09-08,Quebec City,Ottawa,1420,1539,1462.73,CarrierA
+2023-03-20,Regina,Quebec City,241,1263,470.29,CarrierB
+2023-04-24,Toronto,Regina,2680,1724,2539.18,CarrierC
+2023-01-31,Halifax,Toronto,2692,1512,2460.08,CarrierC
+2023-06-18,Halifax,Montreal,2131,2411,2398.81,CarrierC
+2023-04-09,Ottawa,Calgary,1266,760,1239.93,CarrierC
+2023-06-07,Winnipeg,Calgary,2294,2534,2409.7,CarrierC
+2023-11-10,Vancouver,Calgary,2841,2960,2971.46,CarrierC
+2023-09-26,Halifax,Edmonton,1324,1152,1269.55,CarrierE
+2023-05-27,Vancouver,Edmonton,625,516,590.91,CarrierD
+2023-08-19,Vancouver,Halifax,1512,582,1218.94,CarrierC
+2023-06-05,Halifax,Montreal,2760,734,2375.65,CarrierC
+2023-01-15,Montreal,Quebec City,1257,537,1064.82,CarrierC
+2023-01-05,Toronto,Vancouver,338,1275,714.79,CarrierA
+2023-05-24,Montreal,Vancouver,757,1268,894.33,CarrierA
+2023-09-06,Montreal,Ottawa,981,1128,1148.23,CarrierE
+2023-03-15,Quebec City,Vancouver,1237,2149,1555.65,CarrierB
+2023-05-23,Calgary,Regina,530,729,546.12,CarrierC
+2023-12-16,Edmonton,Winnipeg,2962,2740,3117.64,CarrierD
+2023-09-28,Vancouver,Quebec City,1683,1146,1565.51,CarrierA
+2023-05-03,Winnipeg,Montreal,2023,1424,2023.42,CarrierA
+2023-01-22,Toronto,Regina,1547,1952,1766.26,CarrierD
+2023-10-09,Vancouver,Calgary,2706,798,2350.34,CarrierD
+2023-07-10,Halifax,Vancouver,1289,973,1338.98,CarrierA
+2023-02-05,Edmonton,Toronto,2146,1530,2018.42,CarrierA
+2023-05-30,Toronto,Winnipeg,1169,2904,1679.66,CarrierB
+2023-08-22,Ottawa,Winnipeg,1984,884,1697.6,CarrierE
+2023-08-30,Regina,Edmonton,2901,2827,2925.5,CarrierE
+2023-06-15,Winnipeg,Montreal,1107,1514,1344.98,CarrierC
+2023-05-07,Toronto,Montreal,808,1581,1152.88,CarrierA
+2023-11-26,Vancouver,Halifax,805,2032,1264.95,CarrierE
+2023-01-08,Vancouver,Winnipeg,1714,2019,1796.2,CarrierC
+2023-02-03,Calgary,Winnipeg,859,1224,911.6,CarrierC
+2023-12-29,Toronto,Montreal,901,2411,1343.35,CarrierC
+2023-11-13,Calgary,Edmonton,1358,1299,1441.47,CarrierE
+2023-05-13,Regina,Ottawa,1342,2756,1889.55,CarrierE
+2023-04-04,Halifax,Toronto,2453,2095,2467.66,CarrierE
+2023-09-15,Ottawa,Toronto,1116,2865,1613.12,CarrierB
+2023-05-04,Edmonton,Quebec City,374,2957,1193.76,CarrierE
+2023-05-21,Montreal,Toronto,1506,2886,1896.53,CarrierB
+2023-10-08,Toronto,Regina,1952,1896,1979.01,CarrierC
+2023-02-19,Quebec City,Halifax,2835,1570,2541.01,CarrierB
+2023-01-03,Regina,Edmonton,685,1951,1041.35,CarrierC
+2023-11-11,Vancouver,Calgary,1041,1463,1183.74,CarrierE
+2023-05-18,Regina,Halifax,1259,2374,1662.02,CarrierC
+2023-03-04,Winnipeg,Halifax,2679,577,2114.54,CarrierD
+2023-04-15,Vancouver,Halifax,1444,1524,1575.97,CarrierE
+2023-10-30,Montreal,Winnipeg,2363,787,2003.17,CarrierA
+2023-01-30,Calgary,Winnipeg,1833,530,1606.09,CarrierB
+2023-11-10,Regina,Toronto,2563,1672,2485.01,CarrierE
+2023-05-04,Vancouver,Quebec City,1919,1744,1868.89,CarrierC
+2023-07-02,Winnipeg,Calgary,2759,1517,2562.68,CarrierB
+2023-12-06,Quebec City,Regina,2133,1259,2017.91,CarrierE
+2023-11-10,Halifax,Edmonton,547,938,612.72,CarrierB
+2023-05-22,Toronto,Halifax,388,2385,1020.19,CarrierA
+2023-05-10,Edmonton,Quebec City,1417,1923,1552.91,CarrierB
+2023-06-08,Vancouver,Calgary,905,1999,1236.35,CarrierB
+2023-10-14,Toronto,Regina,2243,2119,2354.93,CarrierC
+2023-05-27,Ottawa,Edmonton,1736,2013,1945.61,CarrierC
+2023-02-27,Montreal,Vancouver,1408,1770,1602.72,CarrierB
+2023-06-05,Toronto,Vancouver,662,2221,1238.12,CarrierD
+2023-10-19,Vancouver,Calgary,2602,528,2028.18,CarrierB
+2023-01-17,Edmonton,Ottawa,2872,2064,2675.81,CarrierD
+2023-08-07,Ottawa,Toronto,585,723,618.22,CarrierA
+2023-08-04,Halifax,Winnipeg,2249,642,1892.93,CarrierA
+2023-04-16,Toronto,Vancouver,1422,1474,1442.04,CarrierB
+2023-04-11,Calgary,Winnipeg,1909,2528,2110.08,CarrierE
+2023-02-20,Ottawa,Montreal,1017,2500,1587.2,CarrierC
+2023-11-10,Edmonton,Calgary,864,2982,1600.93,CarrierC
+2023-06-02,Edmonton,Montreal,1036,1187,1121.34,CarrierB
+2023-03-26,Regina,Edmonton,1691,1605,1753.01,CarrierB
+2023-11-13,Quebec City,Ottawa,856,899,890.08,CarrierB
+2023-03-08,Montreal,Regina,1626,694,1417.7,CarrierB
+2023-07-02,Vancouver,Calgary,2655,2600,2719.97,CarrierE
+2023-09-14,Halifax,Toronto,2469,2925,2693.89,CarrierD
+2023-08-18,Winnipeg,Regina,767,728,721.07,CarrierC
+2023-11-26,Toronto,Ottawa,2572,1389,2391.04,CarrierA
+2023-02-16,Calgary,Regina,1599,2514,1967.86,CarrierC
+2023-02-04,Quebec City,Halifax,1335,2615,1689.85,CarrierD
+2023-12-09,Quebec City,Edmonton,1321,1942,1556.26,CarrierC
+2023-10-18,Regina,Halifax,398,2092,866.08,CarrierD
+2023-12-26,Vancouver,Winnipeg,2383,2290,2396.37,CarrierA
+2023-02-28,Toronto,Quebec City,2500,721,2161.07,CarrierA
+2023-07-07,Montreal,Vancouver,2130,1075,1835.25,CarrierD
+2023-10-30,Montreal,Edmonton,636,2546,1236.53,CarrierE
+2023-03-07,Halifax,Quebec City,2141,2930,2453.47,CarrierE
+2023-03-12,Calgary,Winnipeg,1836,1287,1782.76,CarrierE
+2023-09-16,Vancouver,Calgary,2939,1410,2628.76,CarrierD
+2023-11-24,Quebec City,Winnipeg,1118,1677,1255.4,CarrierA
+2023-05-08,Winnipeg,Vancouver,325,1801,865.14,CarrierD
+2023-06-02,Montreal,Winnipeg,549,2783,1237.83,CarrierE
+2023-03-16,Winnipeg,Toronto,880,659,941.43,CarrierA
+2023-11-04,Winnipeg,Quebec City,1262,2909,1806.05,CarrierB
+2023-12-17,Regina,Winnipeg,1417,1464,1553.36,CarrierE
+2023-05-10,Calgary,Regina,497,2925,1187.11,CarrierE
+2023-03-01,Regina,Edmonton,2824,1109,2409.33,CarrierA
+2023-07-11,Vancouver,Edmonton,2338,2238,2344.13,CarrierC
+2023-05-07,Toronto,Winnipeg,2432,2270,2543.52,CarrierD
+2023-11-16,Quebec City,Calgary,1383,813,1201.03,CarrierD
+2023-09-29,Toronto,Winnipeg,2843,1933,2697.35,CarrierD
+2023-12-20,Calgary,Winnipeg,608,592,573.59,CarrierC
+2023-12-09,Edmonton,Halifax,718,2886,1363.55,CarrierE
+2023-01-25,Montreal,Halifax,297,1086,588.91,CarrierB
+2023-05-08,Calgary,Winnipeg,1104,2981,1680.09,CarrierA
+2023-10-14,Calgary,Winnipeg,979,1975,1299.88,CarrierB
+2023-06-24,Vancouver,Regina,1805,2649,2074.86,CarrierC
+2023-07-05,Regina,Vancouver,2361,2602,2493.11,CarrierD
+2023-10-30,Winnipeg,Edmonton,621,2079,1074.84,CarrierD
+2023-08-14,Regina,Toronto,2345,1588,2247.15,CarrierD
+2023-11-01,Halifax,Regina,2447,609,1992.42,CarrierE
+2023-04-07,Quebec City,Calgary,1723,1020,1504.36,CarrierE
+2023-09-13,Halifax,Toronto,2920,1573,2667.59,CarrierB
+2023-05-14,Halifax,Vancouver,1112,683,1109.26,CarrierA
+2023-06-18,Vancouver,Halifax,2513,578,2026.34,CarrierD
+2023-01-01,Regina,Vancouver,718,2900,1310.45,CarrierC
+2023-09-07,Montreal,Toronto,1192,1082,1189.46,CarrierC
+2023-11-25,Regina,Quebec City,491,1395,870.18,CarrierE
+2023-12-12,Winnipeg,Vancouver,402,2117,869.57,CarrierD
+2023-05-25,Regina,Halifax,2022,1915,2155.09,CarrierB
+2023-10-31,Quebec City,Edmonton,1805,1622,1791.99,CarrierD
+2023-04-18,Winnipeg,Toronto,1912,1585,1963.03,CarrierB
+2023-08-05,Halifax,Ottawa,971,1383,1171.91,CarrierA
+2023-03-21,Regina,Montreal,1121,1655,1329.67,CarrierD
+2023-09-20,Quebec City,Regina,1691,2621,2028.32,CarrierD
+2023-05-01,Ottawa,Vancouver,904,863,1032.91,CarrierD
+2023-10-23,Toronto,Ottawa,1492,2307,1748.12,CarrierA
+2023-06-12,Winnipeg,Montreal,1199,884,1257.71,CarrierA
+2023-01-06,Ottawa,Toronto,1204,755,1189.66,CarrierD
+2023-09-21,Halifax,Edmonton,2888,761,2401.19,CarrierB
+2023-06-08,Winnipeg,Calgary,2434,1749,2384.78,CarrierC
+2023-05-27,Halifax,Calgary,2426,1109,2166.32,CarrierB
+2023-09-25,Ottawa,Vancouver,1085,1093,1107.15,CarrierD
+2023-02-22,Regina,Edmonton,2492,798,2156.7,CarrierE
+2023-05-21,Winnipeg,Edmonton,1399,921,1397.55,CarrierE
+2023-09-12,Montreal,Halifax,1687,2245,1848.54,CarrierA
+2023-04-09,Halifax,Regina,476,1293,679.17,CarrierC
+2023-04-20,Toronto,Quebec City,729,1675,1028.54,CarrierD
+2023-07-31,Toronto,Montreal,2142,925,1863.68,CarrierA
+2023-02-13,Calgary,Quebec City,2429,905,2015.9,CarrierD
+2023-12-10,Winnipeg,Regina,1651,1959,1894.08,CarrierB
+2023-02-07,Regina,Vancouver,930,1094,988.74,CarrierB
+2023-09-07,Halifax,Winnipeg,868,1677,1248.34,CarrierB
+2023-01-20,Regina,Montreal,2410,2667,2518.37,CarrierE
+2023-01-02,Regina,Calgary,1684,1888,1905.62,CarrierD
+2023-12-20,Calgary,Montreal,2946,2260,2808.83,CarrierB
+2023-11-13,Ottawa,Halifax,931,2780,1577.32,CarrierE
+2023-06-22,Calgary,Ottawa,362,2539,1078.34,CarrierE
+2023-06-29,Regina,Winnipeg,329,2100,791.05,CarrierE
+2023-11-20,Quebec City,Regina,2243,2788,2533.36,CarrierD
+2023-12-19,Halifax,Regina,977,1307,1199.37,CarrierA
+2023-09-11,Halifax,Regina,240,1964,671.09,CarrierC
+2023-03-31,Regina,Vancouver,2723,1205,2429.09,CarrierD
+2023-07-06,Montreal,Vancouver,251,579,352.66,CarrierC
+2023-12-08,Winnipeg,Regina,760,1134,918.78,CarrierD
+2023-06-03,Calgary,Regina,2036,541,1765.49,CarrierB
+2023-04-29,Montreal,Winnipeg,2115,1629,2062.99,CarrierA
+2023-09-29,Quebec City,Ottawa,2655,1326,2395.67,CarrierD
+2023-07-11,Winnipeg,Regina,658,2319,1234.54,CarrierC
+2023-04-11,Quebec City,Montreal,565,2802,1210.74,CarrierB
+2023-10-11,Montreal,Vancouver,2402,1716,2407.09,CarrierA
+2023-08-20,Edmonton,Calgary,2040,2667,2292.02,CarrierC
+2023-08-25,Ottawa,Montreal,1336,1270,1358.08,CarrierA
+2023-01-19,Toronto,Regina,2833,703,2347.89,CarrierA
+2023-09-30,Ottawa,Vancouver,228,740,297.92,CarrierA
+2023-11-21,Regina,Ottawa,264,2436,970.42,CarrierD
+2023-09-11,Toronto,Vancouver,1647,532,1387.03,CarrierD
+2023-12-10,Toronto,Montreal,1891,1613,1946.32,CarrierE
+2023-01-26,Halifax,Vancouver,2587,1318,2435.45,CarrierC
+2023-09-17,Halifax,Vancouver,728,2559,1268.76,CarrierC
+2023-07-03,Halifax,Calgary,511,1163,797.76,CarrierD
+2023-07-13,Montreal,Regina,2438,686,1953.17,CarrierB
+2023-09-10,Ottawa,Montreal,2908,1224,2607.86,CarrierE
+2023-04-22,Toronto,Winnipeg,1954,683,1745.22,CarrierE
+2023-06-07,Regina,Halifax,646,2642,1289.94,CarrierC
+2023-11-03,Toronto,Ottawa,1066,1333,1268.9,CarrierA
+2023-12-29,Ottawa,Halifax,1549,2431,1809.68,CarrierA
+2023-06-28,Winnipeg,Calgary,611,1048,846.95,CarrierD
+2023-11-08,Quebec City,Toronto,1789,1257,1723.23,CarrierA
+2023-05-27,Regina,Montreal,337,1052,557.59,CarrierA
+2023-08-30,Calgary,Toronto,1296,1659,1554.65,CarrierB
+2023-06-27,Ottawa,Toronto,261,2699,982.91,CarrierD
+2023-10-31,Regina,Winnipeg,250,752,359.86,CarrierA
+2023-01-15,Regina,Halifax,2855,1511,2625.04,CarrierC
+2023-10-14,Quebec City,Toronto,1184,1052,1164.4,CarrierD
+2023-11-11,Quebec City,Regina,1736,1416,1755.59,CarrierA
+2023-06-21,Calgary,Regina,2947,2261,2924.33,CarrierE
+2023-03-22,Winnipeg,Toronto,2072,2577,2229.06,CarrierC
+2023-06-25,Vancouver,Montreal,1551,1279,1463.5,CarrierE
+2023-06-07,Halifax,Vancouver,1529,2268,1917.45,CarrierC
+2023-05-05,Toronto,Quebec City,1344,2622,1706.3,CarrierC
+2023-09-30,Quebec City,Toronto,370,2587,1000.86,CarrierD
+2023-08-23,Winnipeg,Ottawa,1534,2783,2052.7,CarrierA
+2023-05-15,Toronto,Halifax,2520,2560,2691.12,CarrierA
+2023-09-12,Edmonton,Winnipeg,223,1075,577.52,CarrierB
+2023-01-22,Calgary,Toronto,1561,2135,1730.85,CarrierB
+2023-09-10,Halifax,Winnipeg,1904,846,1762.75,CarrierE
+2023-03-26,Calgary,Toronto,2922,1423,2665.57,CarrierD
+2023-10-28,Ottawa,Quebec City,2107,2988,2516.71,CarrierC
+2023-11-24,Toronto,Vancouver,2992,2571,3025.79,CarrierD
+2023-02-16,Toronto,Montreal,1576,1105,1536.66,CarrierA
+2023-08-08,Edmonton,Winnipeg,1440,2637,1882.37,CarrierA
+2023-06-25,Calgary,Ottawa,2725,882,2378.9,CarrierB
+2023-09-27,Ottawa,Winnipeg,934,2476,1346.89,CarrierC
+2023-12-12,Toronto,Vancouver,840,1637,1080.81,CarrierC
+2023-10-08,Regina,Montreal,728,684,779.15,CarrierC
+2023-07-22,Edmonton,Winnipeg,2430,847,2075.34,CarrierA
+2023-08-30,Toronto,Calgary,2178,992,1833.22,CarrierE
+2023-05-19,Calgary,Halifax,917,2374,1499.44,CarrierD
+2023-01-28,Toronto,Edmonton,963,1703,1164.77,CarrierB
+2023-06-19,Winnipeg,Toronto,1226,592,1097.08,CarrierC
+2023-05-05,Montreal,Ottawa,829,2328,1257.17,CarrierA
+2023-05-08,Toronto,Ottawa,1203,1400,1242.48,CarrierD
+2023-11-17,Winnipeg,Regina,2585,1142,2301.82,CarrierB
+2023-11-06,Quebec City,Vancouver,1486,2619,1843.16,CarrierE
+2023-07-30,Edmonton,Ottawa,757,2275,1228.19,CarrierA
+2023-01-07,Winnipeg,Regina,1211,770,1093.96,CarrierA
+2023-07-17,Edmonton,Calgary,1111,641,956.05,CarrierC
+2023-10-05,Montreal,Calgary,892,2329,1294.08,CarrierE
+2023-05-12,Toronto,Montreal,1623,718,1479.92,CarrierE
+2023-02-05,Vancouver,Edmonton,2521,2729,2722.81,CarrierB
+2023-04-04,Edmonton,Quebec City,2056,525,1741.34,CarrierC
+2023-12-12,Toronto,Halifax,873,2783,1570.05,CarrierA
+2023-10-19,Quebec City,Montreal,529,938,759.36,CarrierD
+2023-03-14,Edmonton,Winnipeg,2049,1153,1795.49,CarrierE
+2023-11-14,Quebec City,Winnipeg,422,2054,930.17,CarrierB
+2023-08-09,Halifax,Quebec City,1864,1819,1920.29,CarrierE
+2023-06-04,Edmonton,Vancouver,2599,898,2149.81,CarrierB
+2023-12-31,Regina,Calgary,757,1509,1041.62,CarrierE
+2023-08-04,Ottawa,Winnipeg,2765,2216,2778.51,CarrierB
+2023-04-24,Montreal,Vancouver,666,2509,1277.58,CarrierB
+2023-02-16,Ottawa,Halifax,1590,1334,1524.53,CarrierB
+2023-04-16,Calgary,Vancouver,849,1850,1145.28,CarrierD
+2023-02-14,Regina,Toronto,1779,1374,1683.21,CarrierC
+2023-11-18,Winnipeg,Edmonton,2775,810,2392.49,CarrierC
+2023-03-26,Ottawa,Calgary,1973,1079,1847.63,CarrierA
+2023-05-27,Regina,Winnipeg,935,647,858.47,CarrierB
+2023-02-15,Winnipeg,Calgary,1088,646,965.93,CarrierA
+2023-11-20,Ottawa,Edmonton,2934,1678,2680.02,CarrierD
+2023-09-26,Calgary,Quebec City,2398,1429,2302.43,CarrierA
+2023-08-25,Ottawa,Halifax,1557,2271,1860.1,CarrierA
+2023-09-17,Ottawa,Quebec City,574,701,734.1,CarrierE
+2023-07-11,Montreal,Vancouver,1839,2788,2198.91,CarrierA
+2023-01-28,Winnipeg,Vancouver,335,2881,1143.78,CarrierD
+2023-03-21,Ottawa,Montreal,1346,799,1270.42,CarrierB
+2023-05-09,Edmonton,Quebec City,973,1038,1025.29,CarrierE
+2023-01-27,Calgary,Vancouver,547,1772,903.12,CarrierB
+2023-06-27,Quebec City,Halifax,2086,1852,2088.46,CarrierB
+2023-11-10,Toronto,Halifax,2885,1928,2678.01,CarrierD
+2023-11-04,Regina,Toronto,759,1657,1031.6,CarrierC
+2023-09-29,Quebec City,Regina,1709,1666,1867.71,CarrierE
+2023-10-15,Montreal,Calgary,407,2571,1117.0,CarrierB
